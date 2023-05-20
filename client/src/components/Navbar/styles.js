@@ -22,7 +22,8 @@ export default makeStyles((theme) => ({
   },
   image: {
     marginLeft: '10px',
-    marginTop: '5px',
+    height: '55px',
+    // marginTop: '5px',
   },
   toolbar: {
     display: 'flex',
