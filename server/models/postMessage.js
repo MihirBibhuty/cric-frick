@@ -35,6 +35,6 @@ const postSchema = mongoose.Schema({
     },
 })
 
-var PostMessage = mongoose.model('PostMessage', postSchema);
+var PostMessage = mongoose.model('MatchPredictions', postSchema);
 
 export default PostMessage;
