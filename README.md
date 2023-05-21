@@ -1,15 +1,13 @@
-# Memories
+# Cric-Frick
 
-![Memories](https://i.ibb.co/7CmVbCW/image.png)
+![Memories](https://i.ibb.co/njSDZYw/SS.png)
 
 ## Introduction
-This is a code repository for the corresponding video tutorial - https://youtube.com/playlist?list=PL6QREj8te1P7VSwhrMf3D3Xt4V6_SRkhu.
+Cric-Frick is a ``Cricket Match Prediction/Voting Web Aplication``, here you can create and vote in any Cricket Match, also you can search any ongoing match.
 
-Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called "Memories" and it is a simple social media app that allows users to post interesting events that happened in their lives.
+This is a Full Stack MERN Application made uing React, Node.js, Express & MongoDB. Email as well as Google Authentication is also implemented in it.
 
-By the end of this video, you will have a strong understanding of how the MERN Stack works.
+## Setup:
+- run ```npm i && npm start``` for both client and server directories to start the app
 
-Setup:
-- run ```npm i && npm start``` for both client and server side to start the app
-
-TODO: rename post message, refactor reducers, add some cool memories, maybe clickable tags, fix update functionality
+(``Note:`` Add a ```.env``` file in server directory and add a ```MONGO_URI``` variable in it and add the MongoDB URL there.)
